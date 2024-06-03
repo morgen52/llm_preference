@@ -1,0 +1,214 @@
+{
+    "remove": [
+        "oe3YQZq_55",
+        "dk3RDZ9_19",
+        "4GpQ2V2_0",
+        "1ZakfXH_29",
+        "Art70PT_39",
+        "FYAli9d_89",
+        "FYAli9d_175",
+        "ABqjkJd_0",
+        "IpUN1px_119",
+        "dL6KK2I_9",
+        "ExApHB9_0",
+        "j7dLzef_23",
+        "Le1I8rL_0",
+        "wfDc0oU_9",
+        "5cpN7Dy_5",
+        "CJpThic_9",
+        "CJpThic_13",
+        "rMRFtEk_0",
+        "S7LpwOO_74",
+        "CJpThic_9",
+        "OUlljO8_111",
+        "BacLsAG_5",
+        "nTjXxgD_0",
+        "71ZZWV5_7",
+        "71ZZWV5_11",
+        "HeKpUAp_5",
+        "ErOTMZ3_393",
+        "R7BPWPF_39",
+        "R7BPWPF_43",
+        "5h7qAj1_23",
+        "CJpThic_17",
+        "cWbys8g_33",
+        "CJpThic_25",
+        "oJCqL5T_19",
+        "dDA53iD_31",
+        "aSGXnFA_1",
+        "d1sO4y4_21",
+        "wEk7jHw_3",
+        "nijjszq_19",
+        "OXJ6K3i_43",
+        "aYHsXy8_39",
+        "tOqwUmJ_15",
+        "ikogQM8_0",
+        "m4zRxmt_7",
+        "U7qLlXb_0"
+    ],
+    "rMrBgk1_5": {
+        "language": ["javascript"]
+    },
+    "a6lzBTU_1": {
+        "language": ["csharp"]
+    },
+    "D8JK3Nk_23": {
+        "topic": "software development"
+    },
+    "HeKpUAp_5": {
+        "topic": "software development"
+    },
+    "d3Xzz0R_89": {
+        "language": ["go"]
+    },
+    "Q3GUC2q_5": {
+        "topic": "web development"
+    },
+    "0CwaGaU_5": {
+        "language": ["python", "csharp"]
+    },
+    "HwJ0gjN_11": {
+        "language": ["javascript"]
+    },
+    "D21aPaI_9": {
+        "topic": "web development"
+    },
+    "eBFyLcr_9": {
+        "language": ["php"]
+    },
+    "V3cESLW_89": {
+        "language": ["python"]
+    },
+    "lTMG26A_15": {
+        "topic": "web development"
+    },
+    "kHlBCC4_17": {
+        "language": ["javascript"],
+        "topic": "web development"
+    },
+    "kHlBCC4_37": {
+        "language": ["javascript"]
+    },
+    "EBcRiNf_3": {
+        "language": ["dart"],
+        "topic": "web development"
+    },
+    "2dUFfYG_9": {
+        "topic": "web development"
+    },
+    "wNBG8Gp_15": {
+        "language": ["java"]
+    },
+    "CuZsdSK_5": {
+        "language": ["javascript"]
+    },
+    "kHlBCC4_33": {
+        "language": ["javascript"]
+    },
+    "fSwnRwR_37": {
+        "language": ["csharp", "typescript"]
+    },
+    "EBcRiNf_7": {
+        "language": ["dart"],
+        "topic": "web development"
+    },
+    "wfDc0oU_13": {
+        "language": ["java", "javascript"]
+    },
+    "RzNjBHR_13": {
+        "language": ["php", "sql"]
+    },
+    "tQcc9XZ_9": {
+        "language": ["javascript"]
+    },
+    "SaUokxc_99": {
+        "language": ["javascript"]
+    },
+    "lfHpVqo_17": {
+        "language": ["javascript"]
+    },
+    "skPQbvw_99": {
+        "language": ["javascript"]
+    },   
+    "aSGXnFA_1": {
+        "language": ["node.js", "markdown"]
+    },
+    "kHlBCC4_41": {
+        "language": ["javascript", "typescript"]
+    },
+    "oYuT8Hk_7": {
+        "language": ["java"]
+    },
+    "ISgHoff_20": {
+        "language": ["sql"]
+    },
+    "54AYDYI_0": {
+        "language": ["go"]
+    },
+    "YCWfxcv_51": {
+        "language": ["c++"]
+    },
+    "OfliccU_7": {
+        "language": ["python"]
+    },
+    "DHKHO6E_45": {
+        "language": ["python"]
+    },
+    "Wh4hEbC_53": {
+        "language": ["dart"]
+    },  
+    "9W3d9La_9": {
+        "language": ["csharp", "rust"]
+    },
+    "Q9TY9p7_17": {
+        "language": ["python"]
+    },
+    "VrUNawI_49": {
+        "language": ["python"]
+    },
+    "9iIiPed_3": {
+        "language": ["php"]
+    },
+    "z5nSrIh_3": {
+        "topic": "algorithm design and optimization"
+    },    
+    "eNmPVwc_15": {
+        "topic": "web development"
+    },
+    "eNmPVwc_21": {
+        "topic": "web development"
+    },    
+    "VecrpHZ_111": {
+        "topic": "data processing"
+    },
+    "uF0Y3oR_3": {
+        "topic": "algorithm design and optimization"
+    },
+    "5C2Cn0R_20": {
+        "topic": "software development"
+    },
+    "rfSBIHc_15": {
+        "language": "c++",
+        "topic": "software development"
+    },
+    "wezyfHu_31": {
+        "topic": "software development"
+    },    
+    "eJBiHzm_13": {
+        "topic": "data processing"
+    },
+    "FW2DnQj_5": {
+        "topic": "algorithm design and optimization"
+    },
+    "bsnhhfq_73": {
+        "topic": "software development"
+    },
+    "jOFkC1q_19": {
+        "topic": "data processing"
+    },
+    "KdeAutQ_89": {
+        "topic": "data processing"
+    }
+    
+
+}

@@ -1,0 +1,11 @@
+
+name: vicuna
+dataset_path: datasets/ShareGPT_Vicuna/filter_data
+output_path: counter_vicuna.json
+
+
+
+
+
+
+

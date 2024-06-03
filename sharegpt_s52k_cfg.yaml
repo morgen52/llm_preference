@@ -1,0 +1,9 @@
+
+name: s52k
+dataset_path: datasets/ShareGPT52K/filter_data
+output_path: counter_s52k.json
+
+
+
+
+
